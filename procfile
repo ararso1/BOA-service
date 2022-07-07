@@ -1,1 +1,1 @@
-web: python3 boa_scrap.py
+worker: python boa_scrap.py
